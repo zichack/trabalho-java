@@ -1,5 +1,5 @@
 package model.interfaces;
 
-public class Calculavel {
-    
+public interface Calculavel {
+    double calcularDiaria(int dias);
 }
