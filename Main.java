@@ -1,4 +1,4 @@
-package trabalho-java;
+package trabalho_java;
 
 public class Main {
     
